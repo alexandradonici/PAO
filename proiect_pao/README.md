@@ -9,7 +9,9 @@ Clase:
 7.	FacultateCuAdmitere – media de admitere se calculează ca medie ponderată între media de la bacalaureat și nota de examen
 8.	Specializare – conține facultatea din care face parte, număr de locuri la buget, număr de locuri la taxă și un id al specializării
 9.	Repartiție – conține aplicația unui candidat și anume păstrează informații despre candidat, media de admitere, specializarea la care s-a înscris și un id al aplicației
+
 Astfel în proiectul meu voi avea obiecte din toate clasele de mai sus, exceptând clasa abstractă Facultate.
+
 Acțiuni și interogări:
 1.	Get
 
